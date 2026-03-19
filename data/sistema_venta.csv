@@ -1,0 +1,333 @@
+id_venta,producto,unidades_vendidas,stock_recibido,precio_unitario,importe_total,canal_venta,ciudad,fecha_venta
+1.0,Pantalón Slim,69,330,361,24909,Tienda,Piura,2025-03-09
+2.0,Abrigo Casual,146,244,216,31536,Tienda,Trujillo,2025-04-09
+3.0,Casaca Cuero,136,251,208,28288,Tienda,Arequipa,2025-01-14
+4.0,Pantalón Cargo,149,207,105,15645,Tienda,Cusco,2025-03-01
+5.0,Camisa Cuadros,46,62,272,12512,Mayorista,Piura,2025-01-08
+6.0,Abrigo Paño,63,325,76,4788,Web,Piura,2025-03-19
+7.0,Abrigo Casual,6,146,76,456,Mayorista,Lima,2025-04-07
+8.0,Casaca Impermeable,134,291,340,45560,Mayorista,Trujillo,2025-04-10
+9.0,Pantalón Slim,179,219,296,52984,Tienda,Lima,2025-01-07
+10.0,Camisa Denim,43,399,263,11309,Mayorista,Piura,2025-02-16
+,Abrigo Lana,214,329,76,16264,Mayorista,Cusco,2025-04-04
+12.0,Camisa Oxford,90,224,187,16830,Web,Cusco,2025-04-19
+13.0,Camisa Manga Larga,32,280,278,8896,Mayorista,Cusco,2025-04-25
+14.0,Pantalón Chino,125,155,374,46750,Mayorista,Piura,2025-01-26
+15.0,Casaca Impermeable,20,341,242,4840,Tienda,Cusco,2025-03-11
+16.0,Pantalón Formal,230,334,198,45540,Mayorista,Lima,2025-04-22
+17.0,Camisa Denim,91,216,153,13923,Web,Lima,2025-04-12
+18.0,Camisa Oxford,44,186,288,12672,Mayorista,Cusco,2025-02-09
+19.0,Pantalón Cargo,263,320,158,41554,Web,Lima,2025-03-17
+20.0,Camisa Manga Larga,71,184,150,10650,Web,Lima,2025-04-06
+21.0,Pantalón Jogger,316,336,294,92904,Mayorista,Trujillo,2025-04-09
+22.0,Pantalón Jogger,244,411,218,53192,Web,Lima,2025-01-25
+23.0,Abrigo Paño,61,79,193,11773,Mayorista,Cusco,2025-01-25
+24.0,Casaca Denim,102,277,115,11730,Tienda,Lima,2025-03-18
+25.0,Pantalón Jogger,59,62,272,16048,Web,Cusco,2025-01-16
+26.0,Pantalón Cargo,353,394,334,117902,Mayorista,Arequipa,2025-03-05
+27.0,Abrigo Paño,283,389,235,66505,Tienda,Piura,2025-02-22
+28.0,Casaca Cuero,98,387,102,9996,Tienda,Piura,2025-04-15
+29.0,Pantalón Chino,111,392,149,16539,Tienda,Lima,2025-01-11
+30.0,Casaca Impermeable,134,224,142,19028,Mayorista,Trujillo,2025-02-14
+31.0,Camisa Oxford,27,162,79,2133,Mayorista,Lima,2025-02-21
+32.0,Pantalón Formal,14,82,371,5194,Mayorista,Arequipa,2025-02-01
+33.0,Casaca Denim,224,366,278,62272,Mayorista,Piura,2025-04-24
+34.0,Abrigo Largo,148,417,90,13320,Web,Piura,2025-01-30
+35.0,Pantalón Formal,293,395,121,35453,Mayorista,Lima,2025-04-13
+36.0,Pantalón Formal,324,408,123,39852,Tienda,Trujillo,2025-01-20
+37.0,Casaca Cuero,74,75,148,10952,Tienda,Arequipa,2025-04-28
+38.0,Pantalón Jogger,29,74,351,10179,Mayorista,Lima,2025-04-08
+39.0,Casaca Impermeable,91,389,259,23569,Tienda,Lima,2025-04-06
+40.0,Pantalón Cargo,94,336,244,22936,Web,Trujillo,2025-01-14
+41.0,Casaca Impermeable,34,100,335,11390,Mayorista,Arequipa,2025-04-04
+42.0,Casaca Cuero,246,260,147,36162,Mayorista,Lima,2025-03-20
+43.0,Abrigo Largo,0,59,339,0,Tienda,Lima,2025-01-28
+44.0,Pantalón Slim,135,339,258,34830,Tienda,Piura,2025-01-10
+45.0,Pantalón Formal,81,175,273,22113,Tienda,Arequipa,2025-02-10
+46.0,Pantalón Cargo,37,129,234,8658,Tienda,Lima,2025-03-17
+47.0,Abrigo Casual,143,193,219,31317,Tienda,Trujillo,2025-02-16
+48.0,Pantalón Formal,115,131,308,35420,Tienda,Cusco,2025-02-02
+49.0,Pantalón Formal,58,131,92,5336,Tienda,Arequipa,2025-01-21
+50.0,Casaca Impermeable,156,174,318,49608,Mayorista,Trujillo,2025-01-22
+51.0,Pantalón Chino,181,197,199,36019,Tienda,Piura,2025-01-23
+52.0,Casaca Biker,22,47,164,3608,Tienda,Cusco,2025-03-23
+53.0,Abrigo Lana,292,372,335,97820,Tienda,Trujillo,2025-03-06
+54.0,Abrigo Casual,236,348,279,65844,Tienda,Trujillo,2025-01-18
+55.0,Pantalón Chino,5,184,314,1570,Web,Arequipa,2025-03-08
+56.0,Casaca Biker,44,47,331,14564,Mayorista,Trujillo,2025-02-23
+57.0,Casaca Denim,220,373,331,72820,Tienda,Trujillo,2025-01-18
+58.0,Camisa Denim,61,206,344,20984,Mayorista,Trujillo,2025-04-02
+59.0,Abrigo Largo,0,196,300,0,Mayorista,Piura,2025-04-12
+60.0,Pantalón Jogger,136,205,194,26384,Web,Lima,2025-02-06
+61.0,Casaca Biker,283,409,302,85466,Mayorista,Trujillo,2025-01-06
+62.0,Pantalón Cargo,154,311,106,16324,Mayorista,Arequipa,2025-04-07
+63.0,Pantalón Chino,129,286,97,12513,Mayorista,Trujillo,2025-01-09
+64.0,Abrigo Lana,209,285,136,28424,Web,Trujillo,2025-03-16
+65.0,Pantalón Jogger,10,258,254,2540,Tienda,Trujillo,2025-04-02
+66.0,Pantalón Chino,249,354,221,55029,Tienda,Cusco,2025-02-19
+67.0,Abrigo Lana,145,304,93,13485,Web,Piura,2025-02-05
+68.0,Pantalón Jogger,88,263,373,32824,Tienda,Cusco,2025-01-07
+69.0,Casaca Impermeable,89,374,272,24208,Mayorista,Trujillo,2025-03-20
+70.0,Camisa Slim Fit,351,362,373,130923,Mayorista,Lima,2025-02-06
+71.0,Abrigo Casual,28,248,100,2800,Web,Piura,2025-04-28
+72.0,Casaca Impermeable,80,332,186,14880,Tienda,Arequipa,2025-03-29
+,Casaca Cuero,106,147,245,25970,Web,Cusco,2025-04-24
+74.0,Abrigo Paño,26,207,76,1976,Web,Cusco,2025-04-28
+75.0,Abrigo Lana,91,228,276,25116,Tienda,Arequipa,2025-01-24
+76.0,Camisa Cuadros,32,171,111,3552,Mayorista,Trujillo,2025-01-20
+77.0,Abrigo Casual,265,354,358,94870,Tienda,Lima,2025-02-14
+78.0,Casaca Impermeable,76,362,272,20672,Mayorista,Cusco,2025-04-24
+79.0,Pantalón Slim,241,357,130,31330,Web,Trujillo,2025-04-07
+80.0,Camisa Cuadros,83,374,131,10873,Web,Arequipa,2025-02-21
+81.0,Camisa Cuadros,174,372,336,58464,Mayorista,Lima,2025-01-27
+82.0,Abrigo Casual,71,76,332,23572,Web,Arequipa,2025-01-14
+83.0,Camisa Cuadros,26,50,111,2886,Web,Trujillo,2025-04-21
+84.0,Camisa Manga Larga,203,356,96,19488,Tienda,Cusco,2025-01-15
+85.0,Camisa Manga Larga,50,124,268,13400,Tienda,Piura,2025-02-19
+86.0,Camisa Denim,4,84,245,980,Tienda,Arequipa,2025-01-06
+,Abrigo Paño,6,76,287,1722,Web,Arequipa,2025-03-09
+88.0,Abrigo Lana,87,107,284,24708,Web,Trujillo,2025-01-20
+89.0,Abrigo Paño,67,304,323,21641,Web,Cusco,2025-04-12
+90.0,Camisa Denim,90,104,139,12510,Mayorista,Lima,2025-03-03
+91.0,Abrigo Paño,157,406,216,33912,Mayorista,Lima,2025-02-08
+92.0,Pantalón Formal,250,334,93,23250,Web,Cusco,2025-02-19
+93.0,Abrigo Largo,396,398,374,148104,Tienda,Arequipa,2025-03-30
+94.0,Abrigo Casual,88,142,79,6952,Web,Trujillo,2025-01-06
+95.0,Pantalón Jogger,285,415,158,45030,Tienda,Lima,2025-01-18
+96.0,Camisa Slim Fit,4,42,196,784,Tienda,Piura,2025-01-13
+97.0,Abrigo Paño,21,53,348,7308,Web,Lima,2025-03-22
+98.0,Casaca Cuero,88,135,296,26048,Tienda,Cusco,2025-02-24
+99.0,Camisa Manga Larga,105,120,263,27615,Mayorista,Cusco,2025-03-19
+100.0,Casaca Cuero,72,380,109,7848,Web,Lima,2025-04-13
+101.0,Casaca Biker,182,189,341,62062,Web,Cusco,2025-01-13
+102.0,Abrigo Largo,140,224,82,11480,Web,Trujillo,2025-01-18
+,Pantalón Chino,15,43,115,1725,Tienda,Arequipa,2025-01-27
+104.0,Abrigo Casual,12,62,347,4164,Web,Cusco,2025-01-26
+105.0,Abrigo Casual,205,367,289,59245,Web,Lima,2025-04-23
+106.0,Pantalón Slim,108,269,115,12420,Web,Lima,2025-04-26
+107.0,Casaca Cuero,55,369,216,11880,Tienda,Arequipa,2025-04-04
+108.0,Abrigo Lana,303,378,248,75144,Web,Cusco,2025-03-13
+109.0,Casaca Impermeable,107,242,114,12198,Tienda,Arequipa,2025-02-10
+110.0,Pantalón Chino,81,159,334,27054,Mayorista,Arequipa,
+111.0,Abrigo Casual,134,193,237,31758,Web,Piura,2025-01-29
+112.0,Abrigo Largo,205,220,203,41615,Web,Lima,2025-03-02
+113.0,Casaca Biker,33,99,293,9669,Web,Piura,2025-04-07
+114.0,Camisa Denim,48,304,165,7920,Web,Trujillo,2025-01-24
+115.0,Camisa Denim,47,132,196,9212,Web,Trujillo,2025-04-06
+116.0,Camisa Denim,125,258,268,33500,Web,Cusco,2025-01-07
+117.0,Abrigo Casual,295,376,330,97350,Web,Lima,2025-03-19
+118.0,Camisa Denim,158,237,164,25912,Web,Trujillo,2025-04-05
+119.0,Camisa Oxford,123,358,141,17343,Web,Lima,
+120.0,Abrigo Casual,102,350,141,14382,Mayorista,Cusco,2025-01-26
+121.0,Camisa Manga Larga,104,130,185,19240,Web,Cusco,2025-03-18
+122.0,Pantalón Cargo,120,327,339,40680,Tienda,Arequipa,2025-04-17
+123.0,Camisa Slim Fit,64,74,337,21568,Tienda,Lima,2025-03-24
+,Pantalón Jogger,57,126,203,11571,Mayorista,Cusco,2025-03-07
+125.0,Casaca Biker,200,357,217,43400,Web,Piura,2025-04-08
+126.0,Pantalón Slim,209,339,304,63536,Mayorista,Trujillo,2025-01-16
+127.0,Camisa Manga Larga,34,136,244,8296,Mayorista,Piura,2025-02-26
+128.0,Abrigo Casual,96,159,240,23040,Web,Lima,2025-01-27
+129.0,Casaca Denim,294,413,283,83202,Web,Trujillo,2025-02-09
+130.0,Casaca Cuero,14,97,76,1064,Mayorista,Arequipa,2025-02-28
+131.0,Camisa Oxford,181,399,90,16290,Mayorista,Trujillo,2025-04-02
+132.0,Camisa Slim Fit,281,341,74,20794,Web,Cusco,2025-01-28
+133.0,Casaca Impermeable,167,342,314,52438,Tienda,Arequipa,2025-02-05
+134.0,Casaca Biker,32,161,127,4064,Mayorista,Lima,2025-04-06
+135.0,Abrigo Lana,200,360,227,45400,Web,Arequipa,2025-04-17
+136.0,Pantalón Chino,25,64,243,6075,Tienda,Arequipa,2025-03-25
+137.0,Camisa Denim,139,176,315,43785,Tienda,Arequipa,2025-04-29
+138.0,Casaca Cuero,27,118,97,2619,Tienda,Lima,2025-04-30
+139.0,Casaca Cuero,168,266,212,35616,Web,Trujillo,2025-03-06
+140.0,Camisa Denim,214,417,282,60348,Mayorista,Cusco,2025-03-20
+141.0,Casaca Cuero,124,198,224,27776,Tienda,Cusco,2025-02-10
+142.0,Abrigo Lana,121,293,248,30008,Tienda,Cusco,
+143.0,Casaca Impermeable,24,400,142,3408,Mayorista,Cusco,2025-01-28
+144.0,Pantalón Jogger,135,144,318,42930,Mayorista,Arequipa,2025-03-10
+145.0,Pantalón Formal,187,268,97,18139,Web,Arequipa,2025-04-23
+146.0,Camisa Slim Fit,55,230,311,17105,Tienda,Lima,2025-01-19
+147.0,Camisa Slim Fit,140,293,164,22960,Web,Cusco,2025-01-04
+148.0,Abrigo Largo,279,311,265,73935,Web,Arequipa,2025-04-09
+149.0,Camisa Oxford,182,192,225,40950,Mayorista,Piura,2025-04-03
+150.0,Casaca Cuero,77,127,167,12859,Tienda,Piura,2025-03-23
+151.0,Pantalón Cargo,9,76,178,1602,Mayorista,Lima,2025-03-19
+152.0,Pantalón Formal,74,230,155,11470,Tienda,Cusco,2025-04-24
+153.0,Casaca Cuero,7,267,159,1113,Mayorista,Lima,2025-01-14
+154.0,Pantalón Slim,79,80,320,25280,Tienda,Arequipa,2025-01-01
+155.0,Camisa Cuadros,57,213,253,14421,Web,Piura,2025-04-30
+156.0,Casaca Cuero,76,210,248,18848,Mayorista,Arequipa,2025-04-14
+157.0,Pantalón Jogger,43,325,378,16254,Tienda,Cusco,2025-04-13
+158.0,Pantalón Jogger,287,377,111,31857,Web,Lima,2025-03-13
+159.0,Pantalón Formal,34,238,128,4352,Mayorista,Cusco,2025-01-12
+160.0,Abrigo Lana,164,285,123,20172,Mayorista,Arequipa,2025-02-28
+161.0,Camisa Slim Fit,15,70,319,4785,Tienda,Lima,2025-04-21
+162.0,Abrigo Largo,300,347,189,56700,Web,Lima,2025-02-24
+163.0,Pantalón Chino,370,399,144,53280,Web,Piura,2025-03-15
+164.0,Camisa Slim Fit,138,249,279,38502,Mayorista,Arequipa,2025-01-01
+,Abrigo Largo,92,346,249,22908,Web,Piura,2025-02-10
+,Pantalón Slim,49,336,157,7693,Tienda,Arequipa,2025-03-31
+167.0,Casaca Denim,27,48,132,3564,Web,Arequipa,2025-03-25
+168.0,Casaca Biker,219,416,340,74460,Tienda,Trujillo,
+169.0,Camisa Denim,159,299,96,15264,Web,Cusco,2025-02-19
+170.0,Casaca Biker,10,388,158,1580,Web,Arequipa,2025-04-17
+171.0,Pantalón Jogger,128,215,179,22912,Web,Piura,2025-03-23
+172.0,Casaca Impermeable,112,400,326,36512,Web,Arequipa,2025-01-02
+173.0,Camisa Manga Larga,29,151,179,5191,Tienda,Trujillo,2025-03-04
+174.0,Abrigo Casual,166,179,80,13280,Mayorista,Piura,2025-02-28
+175.0,Camisa Denim,61,352,278,16958,Tienda,Arequipa,2025-04-27
+,Camisa Cuadros,61,359,172,10492,Web,Cusco,2025-01-08
+177.0,Camisa Slim Fit,351,381,246,86346,Mayorista,Cusco,2025-04-10
+178.0,Abrigo Casual,131,322,161,21091,Tienda,Trujillo,2025-03-23
+179.0,Abrigo Casual,49,394,96,4704,Mayorista,Piura,2025-01-06
+180.0,Abrigo Lana,59,216,126,7434,Mayorista,Piura,2025-02-28
+181.0,Abrigo Paño,21,121,349,7329,Web,Piura,2025-04-28
+182.0,Abrigo Lana,106,213,347,36782,Mayorista,Lima,2025-02-18
+183.0,Casaca Denim,79,292,330,26070,Mayorista,Trujillo,2025-03-30
+184.0,Pantalón Jogger,104,109,274,28496,Web,Piura,2025-02-06
+185.0,Pantalón Cargo,15,62,372,5580,Web,Lima,2025-02-28
+186.0,Camisa Slim Fit,7,270,299,2093,Web,Cusco,2025-04-12
+187.0,Pantalón Cargo,62,76,-50,13764,Tienda,Trujillo,2025-02-28
+188.0,Abrigo Casual,59,76,116,6844,Mayorista,Trujillo,2025-02-03
+189.0,Casaca Impermeable,57,362,352,20064,Tienda,Trujillo,2025-04-26
+190.0,Abrigo Paño,136,318,285,38760,Mayorista,Cusco,2025-02-28
+191.0,Abrigo Casual,35,164,316,11060,Mayorista,Arequipa,2025-02-03
+192.0,Pantalón Jogger,20,85,349,6980,Tienda,Cusco,2025-04-06
+193.0,Casaca Biker,97,112,248,24056,Web,Cusco,2025-02-10
+194.0,Casaca Impermeable,134,204,194,25996,Tienda,Piura,2025-03-05
+195.0,Casaca Impermeable,40,45,361,14440,Tienda,Piura,2025-02-05
+196.0,Camisa Manga Larga,327,405,334,109218,Mayorista,Piura,2025-03-24
+197.0,Abrigo Largo,104,282,88,9152,Web,Arequipa,2025-02-08
+198.0,Camisa Cuadros,127,308,343,43561,Mayorista,Arequipa,2025-01-03
+199.0,Casaca Denim,38,49,343,13034,Tienda,Trujillo,2025-04-22
+200.0,Abrigo Lana,96,164,247,23712,Tienda,Piura,
+201.0,Camisa Denim,257,314,315,80955,Web,Lima,2025-03-27
+202.0,Abrigo Lana,38,412,256,9728,Tienda,Lima,2025-02-09
+203.0,Casaca Impermeable,196,350,205,40180,Web,Trujillo,2025-03-02
+204.0,Camisa Manga Larga,68,270,117,7956,Mayorista,Arequipa,2025-01-03
+205.0,Abrigo Largo,106,256,212,22472,Tienda,Cusco,2025-01-16
+206.0,Abrigo Paño,168,330,-50,16968,Web,Trujillo,2025-02-27
+207.0,Casaca Impermeable,78,135,222,17316,Web,Piura,2025-02-28
+208.0,Abrigo Paño,55,266,287,15785,Web,Lima,2025-03-24
+209.0,Camisa Cuadros,42,146,310,13020,Web,Trujillo,2025-04-23
+,Abrigo Casual,177,279,97,17169,Tienda,Piura,2025-03-19
+211.0,Pantalón Slim,288,413,377,108576,Tienda,Cusco,2025-02-19
+212.0,Abrigo Lana,291,320,369,107379,Tienda,Arequipa,2025-02-16
+213.0,Casaca Impermeable,239,278,126,30114,Web,Cusco,2025-03-28
+214.0,Abrigo Paño,197,334,173,34081,Web,Cusco,2025-04-18
+215.0,Pantalón Chino,52,100,85,4420,Mayorista,Arequipa,2025-03-21
+216.0,Abrigo Casual,24,49,378,9072,Web,Piura,2025-04-28
+217.0,Abrigo Paño,12,44,238,2856,Tienda,Arequipa,2025-03-07
+218.0,Abrigo Casual,54,56,350,18900,Web,Trujillo,2025-02-16
+219.0,Camisa Cuadros,26,211,249,6474,Tienda,Lima,2025-01-22
+220.0,Pantalón Cargo,98,248,138,13524,Mayorista,Cusco,2025-04-01
+221.0,Camisa Cuadros,0,80,311,0,Mayorista,Trujillo,2025-01-05
+222.0,Abrigo Largo,100,286,375,37500,Mayorista,Lima,2025-01-20
+223.0,Camisa Manga Larga,132,388,352,46464,Mayorista,Cusco,2025-02-11
+224.0,Camisa Manga Larga,111,128,359,39849,Web,Trujillo,2025-03-12
+225.0,Camisa Denim,292,377,152,44384,Web,Cusco,2025-04-30
+226.0,Casaca Denim,140,381,208,29120,Web,Lima,2025-03-24
+,Pantalón Cargo,151,162,-50,57078,Tienda,Lima,2025-02-13
+228.0,Abrigo Lana,4,179,297,1188,Tienda,Lima,2025-03-03
+229.0,Camisa Manga Larga,189,300,75,14175,Tienda,Piura,2025-01-20
+,Camisa Manga Larga,50,284,256,12800,Mayorista,Lima,2025-03-25
+231.0,Casaca Cuero,55,98,142,7810,Mayorista,Cusco,2025-02-24
+232.0,Pantalón Chino,101,320,125,12625,Mayorista,Trujillo,2025-04-14
+233.0,Abrigo Paño,12,133,191,2292,Web,Arequipa,2025-03-29
+234.0,Camisa Cuadros,177,339,133,23541,Web,Piura,2025-03-12
+235.0,Casaca Cuero,95,228,-50,20140,Tienda,Piura,
+236.0,Pantalón Cargo,130,163,76,9880,Web,Arequipa,2025-04-02
+237.0,Casaca Biker,51,91,233,11883,Web,Trujillo,2025-03-02
+238.0,Abrigo Casual,20,259,314,6280,Web,Trujillo,2025-01-22
+239.0,Casaca Impermeable,60,87,366,21960,Mayorista,Cusco,2025-04-13
+240.0,Camisa Cuadros,26,84,328,8528,Mayorista,Lima,2025-01-30
+241.0,Camisa Cuadros,41,140,319,13079,Mayorista,Arequipa,2025-01-10
+242.0,Pantalón Slim,170,396,123,20910,Mayorista,Arequipa,2025-04-19
+243.0,Pantalón Chino,299,409,98,29302,Mayorista,Piura,2025-01-25
+244.0,Abrigo Largo,353,381,363,128139,Mayorista,Piura,2025-03-12
+245.0,Casaca Biker,220,301,183,40260,Mayorista,Arequipa,2025-02-11
+246.0,Casaca Cuero,61,112,149,9089,Tienda,Cusco,2025-03-14
+,Casaca Denim,68,154,72,4896,Web,Piura,2025-03-14
+248.0,Pantalón Formal,73,135,354,25842,Mayorista,Trujillo,2025-04-29
+249.0,Camisa Slim Fit,297,315,346,102762,Mayorista,Piura,2025-03-09
+250.0,Pantalón Formal,202,253,207,41814,Mayorista,Trujillo,2025-02-11
+251.0,Abrigo Paño,304,336,193,58672,Tienda,Trujillo,2025-01-28
+252.0,Pantalón Formal,35,48,287,10045,Web,Cusco,2025-02-07
+253.0,Abrigo Largo,54,415,279,15066,Web,Cusco,2025-01-15
+254.0,Casaca Impermeable,103,322,341,35123,Tienda,Lima,2025-03-06
+255.0,Pantalón Formal,69,90,308,21252,Mayorista,Cusco,2025-04-20
+256.0,Pantalón Slim,208,299,318,66144,Tienda,Trujillo,2025-04-04
+257.0,Abrigo Largo,329,346,377,124033,Tienda,Cusco,2025-03-26
+258.0,Pantalón Chino,29,50,364,10556,Web,Piura,2025-01-11
+259.0,Abrigo Largo,13,137,256,3328,Web,Piura,2025-01-15
+260.0,Abrigo Casual,23,82,176,4048,Mayorista,Trujillo,2025-04-21
+261.0,Casaca Biker,33,351,88,2904,Tienda,Trujillo,2025-03-16
+262.0,Pantalón Chino,32,61,273,8736,Web,Cusco,2025-03-11
+263.0,Casaca Denim,76,128,379,28804,Web,Piura,2025-01-13
+264.0,Casaca Denim,8,208,214,1712,Tienda,Arequipa,2025-03-23
+265.0,Pantalón Chino,297,337,86,25542,Tienda,Piura,2025-01-15
+266.0,Casaca Biker,122,246,104,12688,Mayorista,Piura,2025-01-26
+267.0,Camisa Manga Larga,142,380,129,18318,Web,Cusco,2025-04-30
+268.0,Casaca Denim,126,275,251,31626,Tienda,Cusco,2025-04-16
+269.0,Casaca Impermeable,57,127,96,5472,Tienda,Arequipa,2025-03-24
+270.0,Camisa Manga Larga,60,166,307,18420,Web,Piura,2025-01-09
+271.0,Casaca Impermeable,40,76,141,5640,Mayorista,Lima,2025-04-26
+272.0,Casaca Cuero,173,213,110,19030,Web,Cusco,2025-03-21
+273.0,Camisa Oxford,135,174,142,19170,Web,Trujillo,2025-03-21
+274.0,Pantalón Cargo,253,298,242,61226,Web,Cusco,2025-01-30
+275.0,Abrigo Paño,34,46,363,12342,Tienda,Piura,2025-02-16
+276.0,Camisa Oxford,209,212,301,62909,Tienda,Arequipa,2025-03-18
+277.0,Casaca Denim,76,144,144,10944,Mayorista,Cusco,2025-04-07
+,Abrigo Largo,139,235,272,37808,Tienda,Lima,2025-03-21
+279.0,Casaca Impermeable,14,404,305,4270,Tienda,Lima,2025-03-09
+280.0,Camisa Oxford,211,373,298,62878,Web,Cusco,2025-03-27
+281.0,Camisa Denim,27,136,133,3591,Web,Arequipa,2025-03-03
+,Casaca Impermeable,57,225,92,5244,Web,Arequipa,2025-04-12
+283.0,Pantalón Cargo,99,108,313,30987,Web,Arequipa,2025-01-01
+284.0,Abrigo Lana,131,147,132,17292,Tienda,Arequipa,2025-01-19
+285.0,Abrigo Paño,89,295,244,21716,Web,Arequipa,2025-03-08
+286.0,Pantalón Jogger,315,330,180,56700,Web,Arequipa,2025-01-01
+287.0,Abrigo Casual,47,179,131,6157,Mayorista,Piura,2025-02-08
+288.0,Camisa Denim,9,117,309,2781,Web,Arequipa,2025-01-31
+289.0,Pantalón Cargo,249,259,340,84660,Tienda,Arequipa,2025-03-15
+,Camisa Manga Larga,122,327,167,20374,Web,Piura,2025-02-11
+291.0,Camisa Manga Larga,69,176,199,13731,Mayorista,Lima,2025-02-03
+292.0,Pantalón Formal,135,182,344,46440,Mayorista,Arequipa,2025-03-12
+293.0,Pantalón Cargo,16,268,213,3408,Mayorista,Cusco,2025-02-05
+294.0,Pantalón Chino,6,284,88,528,Mayorista,Cusco,2025-01-30
+295.0,Abrigo Paño,208,273,375,78000,Tienda,Piura,2025-03-14
+296.0,Camisa Manga Larga,36,213,247,8892,Mayorista,Lima,2025-01-16
+297.0,Abrigo Lana,299,419,342,102258,Tienda,Trujillo,2025-03-08
+,Casaca Denim,110,165,297,32670,Web,Cusco,2025-03-09
+299.0,Pantalón Slim,162,201,323,52326,Web,Cusco,2025-01-13
+300.0,Camisa Slim Fit,156,293,359,56004,Tienda,Piura,2025-02-04
+,Pantalón Chino,80,119,294,23520,Tienda,Cusco,2025-01-22
+302.0,Casaca Impermeable,139,156,292,40588,Web,Cusco,2025-03-16
+303.0,Casaca Impermeable,73,173,120,8760,Web,Piura,2025-02-15
+304.0,Abrigo Paño,168,382,130,21840,Mayorista,Cusco,2025-02-04
+305.0,Camisa Cuadros,92,344,107,9844,Web,Arequipa,
+306.0,Camisa Slim Fit,57,407,-50,17100,Mayorista,Cusco,2025-01-25
+307.0,Casaca Biker,1,46,165,165,Tienda,Lima,2025-02-17
+308.0,Abrigo Paño,23,96,327,7521,Web,Trujillo,
+309.0,Pantalón Jogger,75,270,300,22500,Web,Arequipa,2025-02-02
+310.0,Casaca Denim,57,357,262,14934,Web,Lima,2025-03-06
+311.0,Camisa Manga Larga,40,349,335,13400,Mayorista,Trujillo,2025-01-20
+312.0,Camisa Oxford,208,243,176,36608,Mayorista,Lima,2025-02-08
+313.0,Abrigo Lana,194,357,-50,68094,Tienda,Arequipa,2025-03-14
+314.0,Camisa Cuadros,107,196,301,32207,Web,Trujillo,2025-03-03
+315.0,Abrigo Paño,104,286,171,17784,Tienda,Trujillo,2025-04-03
+,Camisa Manga Larga,152,310,163,24776,Tienda,Lima,2025-03-11
+317.0,Casaca Impermeable,45,270,311,13995,Tienda,Cusco,2025-02-09
+318.0,Pantalón Jogger,99,325,98,9702,Tienda,Piura,2025-02-17
+319.0,Camisa Manga Larga,86,207,190,16340,Web,Cusco,2025-01-19
+320.0,Pantalón Cargo,246,326,182,44772,Tienda,Lima,2025-03-07
+319.0,Camisa Manga Larga,86,207,-50,16340,Web,Cusco,2025-01-19
+271.0,Casaca Impermeable,40,76,141,5640,Mayorista,Lima,2025-04-26
+5.0,Camisa Cuadros,46,62,-50,12512,Mayorista,Piura,2025-01-08
+8.0,Casaca Impermeable,134,291,340,45560,Mayorista,Trujillo,2025-04-10
+207.0,Casaca Impermeable,78,135,-50,17316,Web,Piura,2025-02-28
+29.0,Pantalón Chino,111,392,149,16539,Tienda,Lima,2025-01-11
+91.0,Abrigo Paño,157,406,216,33912,Mayorista,Lima,2025-02-08
+300.0,Camisa Slim Fit,156,293,-50,56004,Tienda,Piura,2025-02-04
+61.0,Casaca Biker,283,409,302,85466,Mayorista,Trujillo,2025-01-06
+177.0,Camisa Slim Fit,351,381,246,86346,Mayorista,Cusco,2025-04-10
+18.0,Camisa Oxford,44,186,288,12672,Mayorista,Cusco,2025-02-09
+126.0,Pantalón Slim,209,339,304,63536,Mayorista,Trujillo,2025-01-16
